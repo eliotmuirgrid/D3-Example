@@ -29,17 +29,21 @@ let D3links = [{
 
 function D3test() {
     let width = 1000, height = 700;
+
     let D3svg = d3.select('body').append('svg')
         .attr('width', width)
         .attr('height', height);
+
     let D3force = d3.layout.force()
         .gravity(0.1)
         .distance(100)
         .charge(-700)
         .size([width, height]);
+
     D3force.nodes(D3nodes)
         .links(D3links)
         .start();
+
     let D3linkSvg = D3svg.selectAll('.link')
         .data(D3links)
         .enter().append('line')
