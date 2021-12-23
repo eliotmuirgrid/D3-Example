@@ -68,18 +68,10 @@ function D3test() {
         });
 
     D3force.on('tick', function () {
-        D3linkSvg.attr('x1', function (d) {
-            return d.source.x;
-        })
-            .attr('y1', function (d) {
-                return d.source.y;
-            })
-            .attr('x2', function (d) {
-                return d.target.x;
-            })
-            .attr('y2', function (d) {
-                return d.target.y;
-            });
+        D3linkSvg.attr('x1', function (d) { return d.source.x; })
+            .attr('y1', function (d) { return d.source.y;})
+            .attr('x2', function (d) { return d.target.x;})
+            .attr('y2', function (d) { return d.target.y;});
         D3nodeSvg.attr('transform', function (d) {
             return 'translate(' + d.x + ',' + d.y + ')';
         });
