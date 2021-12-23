@@ -1,0 +1,789 @@
+
+sjavascript:S3776"WRefactor this function to reduce its Cognitive Complexity from 32976 to the 15 allowed.(½Î›¼
+ajavascript:S905"FExpected an assignment or function call and instead saw an expression.(ŸÎÂî
+ejavascript:S3358/"DExtract this nested ternary operation into an independent statement.(½§Şäşÿÿÿÿ
+ejavascript:S3358/"DExtract this nested ternary operation into an independent statement.(½§Şäşÿÿÿÿ
+ejavascript:S33582"DExtract this nested ternary operation into an independent statement.(Ç…Ìüÿÿÿÿ
+ejavascript:S33582"DExtract this nested ternary operation into an independent statement.(Ç…Ìüÿÿÿÿ
+gjavascript:S17647"KCorrect one of the identical sub-expressions on both sides of operator ">="(£Øè¦
+gjavascript:S1764="KCorrect one of the identical sub-expressions on both sides of operator ">="(½ø·œ
+gjavascript:S1764H"KCorrect one of the identical sub-expressions on both sides of operator ">="(£Øè¦
+gjavascript:S1764N"KCorrect one of the identical sub-expressions on both sides of operator ">="(½ø·œ
+gjavascript:S1764Y"KCorrect one of the identical sub-expressions on both sides of operator ">="(£Øè¦
+gjavascript:S1764b"KCorrect one of the identical sub-expressions on both sides of operator ">="(½ø·œ
+Ojavascript:S1121v"3Extract the assignment of "a" from this expression.(›àŒ
+Ojavascript:S1121x"3Extract the assignment of "a" from this expression.(ËõËĞ
+Ojavascript:S1121"3Extract the assignment of "a" from this expression.(Æøˆ
+Pjavascript:S1121"3Extract the assignment of "a" from this expression.(İãÀ³
+Ujavascript:S1121Œ"3Extract the assignment of "a" from this expression.(¨ïñÈüÿÿÿÿ
+Ujavascript:S1121"3Extract the assignment of "a" from this expression.(’×¼«úÿÿÿÿ
+Ujavascript:S1121–"3Extract the assignment of "a" from this expression.(š—÷’ùÿÿÿÿ
+Pjavascript:S1121"3Extract the assignment of "a" from this expression.(Ìë´£
+Bjavascript:S878Ñ"!Unexpected use of comma operator.(Â™ÒÒùÿÿÿÿ
+Mjavascript:S1854Ü"0Remove this useless assignment to variable "p0".(¯åÿ
+Qjavascript:S1121Ü"4Extract the assignment of "p0" from this expression.(¯åÿ
+Qjavascript:S1121Ü"4Extract the assignment of "p1" from this expression.(¯åÿ
+Pjavascript:S1121à"3Extract the assignment of "n" from this expression.( Ç–«
+Bjavascript:S878˜"!Unexpected use of comma operator.(ëÚ™ùÿÿÿÿ
+Ojavascript:S1117¬"-'key' is already declared in the upper scope.(ñÉäÓüÿÿÿÿ
+Pjavascript:S1121±"3Extract the assignment of "o" from this expression.(»Îº•
+ijavascript:S1121Á"LExtract the assignment of "this._[d3_map_escape(key)]" from this expression.(ïİ«
+Qjavascript:S1121Ü"5Extract the assignment of "key" from this expression.(ÖÑë*
+Rjavascript:S1121â"5Extract the assignment of "key" from this expression.(·û
+Vjavascript:S1481ë"4Remove the declaration of the unused 'key' variable.(¥›Ê§şÿÿÿÿ
+Sjavascript:S1854ë"1Remove this useless assignment to variable "key".(¥›Ê§şÿÿÿÿ
+Qjavascript:S1481ï"4Remove the declaration of the unused 'key' variable.(ãªµ‰
+Njavascript:S1854ï"1Remove this useless assignment to variable "key".(ãªµ‰
+fjavascript:S3358õ"DExtract this nested ternary operation into an independent statement.(ËúÀºûÿÿÿÿ
+Zjavascript:S1121ø"8Extract the assignment of "values" from this expression.(üÜ˜Íøÿÿÿÿ
+\javascript:S1121ø":Extract the assignment of "keyValue" from this expression.(üÜ˜Íøÿÿÿÿ
+Zjavascript:S1121ø"8Extract the assignment of "object" from this expression.(üÜ˜Íøÿÿÿÿ
+Ojavascript:S1117€"2'keyValue' is already declared in the upper scope.(××ßı
+Mjavascript:S1117€"0'values' is already declared in the upper scope.(××ßı
+Ojavascript:S1117…"2'keyValue' is already declared in the upper scope.(××ßı
+Mjavascript:S1117…"0'values' is already declared in the upper scope.(××ßı
+Jjavascript:S1117Œ"-'map' is already declared in the upper scope.(®Îøè
+Wjavascript:S1121¼"5Extract the assignment of "key" from this expression.(â“àğşÿÿÿÿ
+Ujavascript:S1121Í"8Extract the assignment of "method" from this expression.(›ºü©
+Ajavascript:S1186ß"$Unexpected empty function 'd3_noop'.(–—ƒì
+Ejavascript:S1186å"(Unexpected empty function 'd3_dispatch'.(¢Ôé˜
+Ojavascript:S1121ø"3Extract the assignment of "l" from this expression.(ÊÌºZ
+Ujavascript:S1121€"3Extract the assignment of "i" from this expression.(Ê¸Òøÿÿÿÿ
+Hjavascript:S1117·"+'n' is already declared in the upper scope.(ŠœıÅ
+Hjavascript:S1117·"+'s' is already declared in the upper scope.(ŠœıÅ
+\javascript:S1121Ë":Extract the assignment of "subgroup" from this expression.(÷Í—Şøÿÿÿÿ
+Yjavascript:S1121Ì"7Extract the assignment of "group" from this expression.(ÕÍúûÿÿÿÿ
+Xjavascript:S1121Î"6Extract the assignment of "node" from this expression.(ú¼±‚øÿÿÿÿ
+[javascript:S1121Ï"9Extract the assignment of "subnode" from this expression.(Ğ—÷§ùÿÿÿÿ
+Xjavascript:S1121â"6Extract the assignment of "node" from this expression.(ú¼±‚øÿÿÿÿ
+\javascript:S1121ã":Extract the assignment of "subgroup" from this expression.(ÅÜ¤Ôÿÿÿÿÿ
+fjavascript:S3358¤"DExtract this nested ternary operation into an independent statement.(Ó„¡®ùÿÿÿÿ
+fjavascript:S3358¤"DExtract this nested ternary operation into an independent statement.(Ó„¡®ùÿÿÿÿ
+fjavascript:S3358¤"DExtract this nested ternary operation into an independent statement.(Ó„¡®ùÿÿÿÿ
+fjavascript:S3358¤"DExtract this nested ternary operation into an independent statement.(Ó„¡®ùÿÿÿÿ
+Xjavascript:S1121¬"6Extract the assignment of "name" from this expression.(Ö ñÜıÿÿÿÿ
+Yjavascript:S1121­"7Extract the assignment of "value" from this expression.(õ–ºäşÿÿÿÿ
+Pjavascript:S1121Ğ"3Extract the assignment of "c" from this expression.(›”Ñ·
+fjavascript:S3358õ"DExtract this nested ternary operation into an independent statement.(íÆåîşÿÿÿÿ
+Sjavascript:S3800ÿ"6Refactor this function to always return the same type.(òĞñ…
+ajavascript:S3358Š"DExtract this nested ternary operation into an independent statement.(‡©Àì
+ajavascript:S3358"DExtract this nested ternary operation into an independent statement.(¨ÑÙ§
+ajavascript:S3358"DExtract this nested ternary operation into an independent statement.(¼ğË
+ajavascript:S3358—"DExtract this nested ternary operation into an independent statement.(¨ÑÙ§
+ajavascript:S3358š"DExtract this nested ternary operation into an independent statement.(¼ğË
+fjavascript:S3358®"DExtract this nested ternary operation into an independent statement.(Ş¯ıÿÿÿÿ
+Xjavascript:S1121®"6Extract the assignment of "name" from this expression.(Ş¯ıÿÿÿÿ
+Ujavascript:S1121Á"3Extract the assignment of "n" from this expression.(û¾²ÿÿÿÿÿ
+Yjavascript:S1121Á"7Extract the assignment of "group" from this expression.(û¾²ÿÿÿÿÿ
+Xjavascript:S1121Ã"6Extract the assignment of "node" from this expression.(ú¼±‚øÿÿÿÿ
+Qjavascript:S1117É"/'group' is already declared in the upper scope.(ê…£ãşÿÿÿÿ
+Hjavascript:S1117Ê"+'i' is already declared in the upper scope.(’ä¯
+Hjavascript:S1117Ê"+'n' is already declared in the upper scope.(’ä¯
+Kjavascript:S1117Ê".'node' is already declared in the upper scope.(’ä¯
+Xjavascript:S1121Î"6Extract the assignment of "node" from this expression.(ú¼±‚øÿÿÿÿ
+\javascript:S1121Ï":Extract the assignment of "keyValue" from this expression.(ËúÈ’øÿÿÿÿ
+Sjavascript:S1121Ø"6Extract the assignment of "node" from this expression.(¨œ¤«
+Wjavascript:S1121Ø":Extract the assignment of "keyValue" from this expression.(¨œ¤«
+Wjavascript:S1121Ø":Extract the assignment of "nodeData" from this expression.(¨œ¤«
+Tjavascript:S1121€"7Extract the assignment of "group" from this expression.(±¾¶Ì
+Pjavascript:S1854„"3Remove this useless assignment to variable "group".(ı®¼¨
+Tjavascript:S1121„"7Extract the assignment of "group" from this expression.(ı®¼¨
+\javascript:S1121›":Extract the assignment of "subgroup" from this expression.(÷Í—Şøÿÿÿÿ
+Yjavascript:S1121œ"7Extract the assignment of "group" from this expression.(ÕÍúûÿÿÿÿ
+Xjavascript:S1121"6Extract the assignment of "node" from this expression.(º®»Âÿÿÿÿÿ
+Xjavascript:S1121­"6Extract the assignment of "node" from this expression.(ú¼±‚øÿÿÿÿ
+Rjavascript:S1121È"6Extract the assignment of "node" from this expression.(®T
+Vjavascript:S1121Ï"9Extract the assignment of "args[0]" from this expression.(ø»Îé
+Tjavascript:S1121ô"7Extract the assignment of "group" from this expression.(èŒÆ
+\javascript:S1121õ":Extract the assignment of "subgroup" from this expression.(÷Í—Şøÿÿÿÿ
+Xjavascript:S1121ø"6Extract the assignment of "node" from this expression.(ú¼±‚øÿÿÿÿ
+Yjavascript:S1121ù"<Extract the assignment of "upgroup[i]" from this expression.(€îûÎ
+Bjavascript:S878Š"!Unexpected use of comma operator.(şáÒúÿÿÿÿ
+Xjavascript:S1121Œ"6Extract the assignment of "node" from this expression.(î®ìıÿÿÿÿ
+Ojavascript:S1121®"3Extract the assignment of "n" from this expression.(òş"
+Xjavascript:S3800³"6Refactor this function to always return the same type.(á‰·Ğúÿÿÿÿ
+=javascript:S878·"!Unexpected use of comma operator.(³í÷›
+Yjavascript:S1121Â"<Extract the assignment of "this[name]" from this expression.(Ñí
+Rjavascript:S1121Â"5Extract the assignment of "l.$" from this expression.(Ñí
+Kjavascript:S1117Ç".'name' is already declared in the upper scope.(Àø…±
+Yjavascript:S1121È"7Extract the assignment of "match" from this expression.(Ï¡ªúÿÿÿÿ
+ajavascript:S3358Ï"DExtract this nested ternary operation into an independent statement.(Óá¬ÿ
+ajavascript:S3358Ï"DExtract this nested ternary operation into an independent statement.(Óá¬ÿ
+=javascript:S878¡	"!Unexpected use of comma operator.(§À‚¤
+=javascript:S878¡	"!Unexpected use of comma operator.(§À‚¤
+=javascript:S878ª	"!Unexpected use of comma operator.(£İŸÉ
+Tjavascript:S1121¬	"7Extract the assignment of "touch" from this expression.(á¼›é
+fjavascript:S3358ï	"DExtract this nested ternary operation into an independent statement.(öÀ÷Æûÿÿÿÿ
+ajavascript:S3358õ	"DExtract this nested ternary operation into an independent statement.(’†·›
+fjavascript:S3358ø	"DExtract this nested ternary operation into an independent statement.(ÛÖ†ëüÿÿÿÿ
+Ujavascript:S1121û	"3Extract the assignment of "x" from this expression.(¤¸µ¤øÿÿÿÿ
+Ujavascript:S1121ş	"3Extract the assignment of "x" from this expression.(Ï—»¥ÿÿÿÿÿ
+Pjavascript:S1121
+"3Extract the assignment of "x" from this expression.(ØÛ–Ø
+Ujavascript:S1121„
+"3Extract the assignment of "x" from this expression.(àœÙùÿÿÿÿ
+fjavascript:S3358¢
+"DExtract this nested ternary operation into an independent statement.(ˆî³ÿÿÿÿÿ
+Sjavascript:S3800Ø
+"6Refactor this function to always return the same type.(»ùè€
+Xjavascript:S3800ò
+"6Refactor this function to always return the same type.(±ãœúÿÿÿÿ
+[javascript:S1121¢"9Extract the assignment of "center0" from this expression.(æïçÚşÿÿÿÿ
+Bjavascript:S878¿"!Unexpected use of comma operator.(½Ğ•¢üÿÿÿÿ
+9javascript:S2814î"'p' is already defined.(ªû¼Üùÿÿÿÿ
+<javascript:S2310÷"Remove this assignment of "l1".(šíš›
+Qjavascript:S1121÷"4Extract the assignment of "l1" from this expression.(šíš›
+Bjavascript:S878ù"!Unexpected use of comma operator.(¦ª‡ûÿÿÿÿ
+]javascript:S1121ı";Extract the assignment of "distance1" from this expression.(¼—Å¦úÿÿÿÿ
+]javascript:S1121ı";Extract the assignment of "distance1" from this expression.(¼—Å¦úÿÿÿÿ
+]javascript:S1481Œ";Remove the declaration of the unused 'identifier' variable.(«Çáàûÿÿÿÿ
+Zjavascript:S1854Œ"8Remove this useless assignment to variable "identifier".(«Çáàûÿÿÿÿ
+Djavascript:S3735"'Remove this use of the "void" operator.(Ûìãú
+bjavascript:S905˜"FExpected an assignment or function call and instead saw an expression.(á©ËÃ
+=javascript:S878˜"!Unexpected use of comma operator.(á©ËÃ
+Vjavascript:S1121™"9Extract the assignment of "center0" from this expression.(±¹õ
+ujavascript:S3699™"XRemove this use of the output from "zoomstarted"; "zoomstarted" doesn't return anything.(±¹õ
+Gjavascript:S1186«"%Unexpected empty function 'd3_color'.(¯–ú–ûÿÿÿÿ
+Djavascript:S3735±"'Remove this use of the "void" operator.(ı»Õ¢
+ajavascript:S3358±"DExtract this nested ternary operation into an independent statement.(ı»Õ¢
+ajavascript:S3358±"DExtract this nested ternary operation into an independent statement.(ı»Õ¢
+`javascript:S3358Á"DExtract this nested ternary operation into an independent statement.(¯ßû5
+fjavascript:S3358Â"DExtract this nested ternary operation into an independent statement.(æ±íŸüÿÿÿÿ
+fjavascript:S3358Â"DExtract this nested ternary operation into an independent statement.(æ±íŸüÿÿÿÿ
+fjavascript:S3358Ã"DExtract this nested ternary operation into an independent statement.(ğÃïáøÿÿÿÿ
+Mjavascript:S1117Æ"+'h' is already declared in the upper scope.(Üˆİúÿÿÿÿ
+Mjavascript:S1117Í"+'h' is already declared in the upper scope.(º´°Ğúÿÿÿÿ
+Djavascript:S3735Ô"'Remove this use of the "void" operator.(ÛïÇî
+ajavascript:S3358Ô"DExtract this nested ternary operation into an independent statement.(ÛïÇî
+ajavascript:S3358Ô"DExtract this nested ternary operation into an independent statement.(ÛïÇî
+ajavascript:S3358Ô"DExtract this nested ternary operation into an independent statement.(ÛïÇî
+Pjavascript:S1121Ô"3Extract the assignment of "h" from this expression.(ÛïÇî
+Pjavascript:S1121Ô"3Extract the assignment of "h" from this expression.(ÛïÇî
+Ujavascript:S1121ã"3Extract the assignment of "h" from this expression.(ıê©œıÿÿÿÿ
+Djavascript:S3735ç"'Remove this use of the "void" operator.(«±——
+ajavascript:S3358ç"DExtract this nested ternary operation into an independent statement.(«±——
+ajavascript:S3358ç"DExtract this nested ternary operation into an independent statement.(«±——
+ajavascript:S3358ç"DExtract this nested ternary operation into an independent statement.(«±——
+Pjavascript:S1121ç"3Extract the assignment of "l" from this expression.(«±——
+ejavascript:S3686ç"HCorrect the use of this function; on line 1616 it was called with "new".(«±——
+Ijavascript:S3735Š"'Remove this use of the "void" operator.(ÊÜ¼Åúÿÿÿÿ
+fjavascript:S3358Š"DExtract this nested ternary operation into an independent statement.(ÊÜ¼Åúÿÿÿÿ
+fjavascript:S3358Š"DExtract this nested ternary operation into an independent statement.(ÊÜ¼Åúÿÿÿÿ
+Tjavascript:S1121«"8Extract the assignment of "format" from this expression.(Á‹ì{
+Yjavascript:S1121º"7Extract the assignment of "color" from this expression.( –åìÿÿÿÿÿ
+Tjavascript:S1121½"7Extract the assignment of "color" from this expression.(Ÿ ßû
+Pjavascript:S1121Î"3Extract the assignment of "r" from this expression.(Æ×Ÿ 
+Pjavascript:S1121Î"3Extract the assignment of "g" from this expression.(Æ×Ÿ 
+Pjavascript:S1121Î"3Extract the assignment of "b" from this expression.(Æ×Ÿ 
+jjavascript:S3686Ş"HCorrect the use of this function; on line 1648 it was called with "new".(òµ¯Èùÿÿÿÿ
+Bjavascript:S878‰"!Unexpected use of comma operator.(ŸÔ´Éùÿÿÿÿ
+bjavascript:S1121‘"@Extract the assignment of "request.onload" from this expression.(ôÇİ„ûÿÿÿÿ
+njavascript:S1121‘"LExtract the assignment of "request.onreadystatechange" from this expression.(ôÇİ„ûÿÿÿÿ
+Tjavascript:S1117Ä"2'callback' is already declared in the upper scope.(”©‰”ÿÿÿÿÿ
+=javascript:S878Å"!Unexpected use of comma operator.(¯Öùæ
+Njavascript:S1117Ë"1'request' is already declared in the upper scope.(Æ²‘‹
+Bjavascript:S878å"!Unexpected use of comma operator.(à¢ãøùÿÿÿÿ
+fjavascript:S3358è"DExtract this nested ternary operation into an independent statement.(õÃ‘Êşÿÿÿÿ
+Hjavascript:S1117ø"+'i' is already declared in the upper scope.(šÔã¡
+Ojavascript:S1117û"-'row' is already declared in the upper scope.(ÜÓõ¾ıÿÿÿÿ
+Mjavascript:S1117û"+'i' is already declared in the upper scope.(ÜÓõ¾ıÿÿÿÿ
+=javascript:S878„"!Unexpected use of comma operator.(ÎÙ
+4javascript:S2814™"'c' is already defined.(Ş¬£Î
+~javascript:S4165™"aReview this redundant assignment: "k" already holds the assigned value along all execution paths.(Ş¬£Î
+ajavascript:S905œ"FExpected an assignment or function call and instead saw an expression.(„ßë	
+<javascript:S878œ"!Unexpected use of comma operator.(„ßë	
+Vjavascript:S1121€"4Extract the assignment of "t0" from this expression.(õ Ì’ùÿÿÿÿ
+Sjavascript:S1121‚"6Extract the assignment of "t0.n" from this expression.(ëà
+ajavascript:S1121‚"DExtract the assignment of "d3_timer_queueHead" from this expression.(ëà
+Ojavascript:S1121Œ"3Extract the assignment of "n" from this expression.(´¹æ
+Tjavascript:S1121‘"7Extract the assignment of "value" from this expression.(à„å–
+Mjavascript:S1117œ"+'d' is already declared in the upper scope.(ÚÓåüÿÿÿÿ
+Mjavascript:S1117"+'d' is already declared in the upper scope.(¿Äøÿÿÿÿ
+Pjavascript:S1121©"3Extract the assignment of "i" from this expression.(é‡±à
+Pjavascript:S1121«"3Extract the assignment of "j" from this expression.(€×ÙÂ
+rjavascript:S128Ë"VEnd this switch case with an unconditional break, continue, return or throw statement.( ‘Şÿ
+rjavascript:S128Î"VEnd this switch case with an unconditional break, continue, return or throw statement.(êİŞÿ
+Bjavascript:S878Û"!Unexpected use of comma operator.(­—ÿ¼şÿÿÿÿ
+ajavascript:S3358å"DExtract this nested ternary operation into an independent statement.(½…àó
+Bjavascript:S878ñ"!Unexpected use of comma operator.(èİÏèûÿÿÿÿ
+Bjavascript:S878ñ"!Unexpected use of comma operator.(èİÏèûÿÿÿÿ
+Ujavascript:S1121÷"8Extract the assignment of "length" from this expression.(éìŞÒ
+ajavascript:S3358û"DExtract this nested ternary operation into an independent statement.(ÉÎ¹ª
+ajavascript:S3358û"DExtract this nested ternary operation into an independent statement.(ÉÎ¹ª
+Ujavascript:S1121û"8Extract the assignment of "length" from this expression.(ÉÎ¹ª
+ajavascript:S3358û"DExtract this nested ternary operation into an independent statement.(ÉÎ¹ª
+Pjavascript:S1121š"3Extract the assignment of "x" from this expression.(Ÿ´ÁÌ
+Xjavascript:S1121é"6Extract the assignment of "date" from this expression.(ç’Õ®şÿÿÿÿ
+Sjavascript:S1121í"6Extract the assignment of "date" from this expression.(‡ÅõÖ
+Ajavascript:S2189ó"$'time' is not modified in this loop.(şİ†Û
+?javascript:S2189ó""'t1' is not modified in this loop.(şİ†Û
+Fjavascript:S2189ø"$'time' is not modified in this loop.(ñ¡¦İüÿÿÿÿ
+Djavascript:S2189ø""'t1' is not modified in this loop.(ñ¡¦İüÿÿÿÿ
+gjavascript:S905ø"FExpected an assignment or function call and instead saw an expression.(ñ¡¦İüÿÿÿÿ
+Bjavascript:S878ø"!Unexpected use of comma operator.(ñ¡¦İüÿÿÿÿ
+Ojavascript:S1117ÿ"-'utc' is already declared in the upper scope.(å½‡úÿÿÿÿ
+Xjavascript:S1121¼"6Extract the assignment of "date" from this expression.(–â‹Éıÿÿÿÿ
+Ojavascript:S1117Á"-'day' is already declared in the upper scope.(ä¾ıíÿÿÿÿÿ
+Ojavascript:S1117Ç"-'day' is already declared in the upper scope.(ä¾ıíÿÿÿÿÿ
+Zjavascript:S1117Ñ"8'd3_time_format' is already declared in the upper scope.(ô£¾­ıÿÿÿÿ
+Ujavascript:S1121Ø"3Extract the assignment of "c" from this expression.(•Ú¹úÿÿÿÿ
+Pjavascript:S1121Ù"3Extract the assignment of "f" from this expression.(„Òˆò
+ajavascript:S3358Ù"DExtract this nested ternary operation into an independent statement.(„Òˆò
+Pjavascript:S1121¢"3Extract the assignment of "i" from this expression.(ì©ÒÙ
+Zjavascript:S1121Ò"8Extract the assignment of "string" from this expression.(¼»ûçúÿÿÿÿ
+Hjavascript:S1117ˆ"+'i' is already declared in the upper scope.(İó¼†
+Bjavascript:S1186£"%Unexpected empty function 'd3_adder'.(ıñç§
+bjavascript:S905×"FExpected an assignment or function call and instead saw an expression.(Å°•Ã
+=javascript:S878×"!Unexpected use of comma operator.(Å°•Ã
+gjavascript:S905ï"FExpected an assignment or function call and instead saw an expression.(©ŠòÛÿÿÿÿÿ
+Bjavascript:S878ï"!Unexpected use of comma operator.(©ŠòÛÿÿÿÿÿ
+Sjavascript:S1121“"6Extract the assignment of "Î»00" from this expression.(Îş³¹
+=javascript:S878“"!Unexpected use of comma operator.(Îş³¹
+Qjavascript:S1121“"4Extract the assignment of "Ï†" from this expression.(Îş³¹
+Sjavascript:S1121“"6Extract the assignment of "Ï†00" from this expression.(Îş³¹
+Bjavascript:S878›"!Unexpected use of comma operator.(ù¼ÂÊÿÿÿÿÿ
+Wjavascript:S1121Ñ"5Extract the assignment of "Î»1" from this expression.(Î€•§úÿÿÿÿ
+Bjavascript:S878Ñ"!Unexpected use of comma operator.(Î€•§úÿÿÿÿ
+Wjavascript:S1121Ñ"5Extract the assignment of "Ï†1" from this expression.(Î€•§úÿÿÿÿ
+Bjavascript:S878Ò"!Unexpected use of comma operator.(Ó÷ÜÓşÿÿÿÿ
+Yjavascript:S1121Ö"7Extract the assignment of "range" from this expression.(÷Â²°üÿÿÿÿ
+Wjavascript:S1121Ö"5Extract the assignment of "Î»0" from this expression.(÷Â²°üÿÿÿÿ
+Wjavascript:S1121Ö"5Extract the assignment of "Î»1" from this expression.(÷Â²°üÿÿÿÿ
+Bjavascript:S878ä"!Unexpected use of comma operator.(¡á‘şÿÿÿÿ
+6javascript:S2814å"'Ï†i' is already defined.(ÍĞ¡¯
+<javascript:S878€"!Unexpected use of comma operator.(°±¢:
+Bjavascript:S878†"!Unexpected use of comma operator.(Ó÷ÜÓşÿÿÿÿ
+fjavascript:S3358"DExtract this nested ternary operation into an independent statement.(Œ»ËŸùÿÿÿÿ
+Bjavascript:S878"!Unexpected use of comma operator.(À“Ï§ıÿÿÿÿ
+Wjavascript:S1121˜"5Extract the assignment of "Î»1" from this expression.(Û¾üÿÿÿÿ
+Bjavascript:S878™"!Unexpected use of comma operator.(Ó÷ÜÓşÿÿÿÿ
+Jjavascript:S1117œ"-'Î»0' is already declared in the upper scope.(“Ïï§
+Jjavascript:S1117œ"-'Î»1' is already declared in the upper scope.(“Ïï§
+Qjavascript:S1117¢"/'range' is already declared in the upper scope.(ÎÇë‘ùÿÿÿÿ
+Rjavascript:S1121¦"5Extract the assignment of "Î»0" from this expression.(õº½
+Ujavascript:S1121²"3Extract the assignment of "a" from this expression.(ÎÆš¿ıÿÿÿÿ
+4javascript:S2814¶"'n' is already defined.(ÕÕò™
+4javascript:S2814¶"'i' is already defined.(ÕÕò™
+4javascript:S2814¶"'a' is already defined.(ÕÕò™
+4javascript:S2814¶"'b' is already defined.(ÕÕò™
+Bjavascript:S878¸"!Unexpected use of comma operator.(İóõüşÿÿÿÿ
+=javascript:S878Ä"!Unexpected use of comma operator.(–ô­
+Bjavascript:S878Å"!Unexpected use of comma operator.(ì±ƒ£şÿÿÿÿ
+Qjavascript:S1121Ú"4Extract the assignment of "Ï†" from this expression.(”‹Ì¬
+Qjavascript:S1121ç"4Extract the assignment of "Ï†" from this expression.(”‹Ì¬
+Vjavascript:S1121ğ"4Extract the assignment of "Ï†" from this expression.(ÌÖ‡µÿÿÿÿÿ
+Ujavascript:S1121ğ"3Extract the assignment of "w" from this expression.(ÌÖ‡µÿÿÿÿÿ
+Ujavascript:S1121ğ"3Extract the assignment of "w" from this expression.(ÌÖ‡µÿÿÿÿÿ
+Ujavascript:S1121ğ"3Extract the assignment of "w" from this expression.(ÌÖ‡µÿÿÿÿÿ
+Vjavascript:S1121ò"4Extract the assignment of "x0" from this expression.(°šÇîùÿÿÿÿ
+Qjavascript:S1121ó"4Extract the assignment of "y0" from this expression.(¸‚Ÿ
+Qjavascript:S1121ô"4Extract the assignment of "z0" from this expression.(ìç§
+=javascript:S878ş"!Unexpected use of comma operator.(¢ÓÆ«
+Qjavascript:S1121"4Extract the assignment of "Ï†" from this expression.(”‹Ì¬
+Vjavascript:S1121"4Extract the assignment of "Ï†" from this expression.(²ì–¤úÿÿÿÿ
+Vjavascript:S1121“"4Extract the assignment of "x0" from this expression.(°šÇîùÿÿÿÿ
+Qjavascript:S1121”"4Extract the assignment of "y0" from this expression.(¸‚Ÿ
+Qjavascript:S1121•"4Extract the assignment of "z0" from this expression.(ìç§
+Bjavascript:S878›"!Unexpected use of comma operator.(âç¡†üÿÿÿÿ
+Bjavascript:S878"!Unexpected use of comma operator.(·†—ıÿÿÿÿ
+Mjavascript:S1117©"+'n' is already declared in the upper scope.(ª­æıÿÿÿÿ
+Mjavascript:S1117¬"+'i' is already declared in the upper scope.(¡£Ìøÿÿÿÿ
+Vjavascript:S1121¬"4Extract the assignment of "p0" from this expression.(¡£Ìøÿÿÿÿ
+4javascript:S2814Ë"'i' is already defined.(İÌµ‘
+4javascript:S2814Ë"'n' is already defined.(İÌµ‘
+Tjavascript:S1121Ë"7Extract the assignment of "point" from this expression.(İÌµ‘
+4javascript:S2814Ó"'i' is already defined.(¬Ú€–
+Tjavascript:S1121Ó"7Extract the assignment of "point" from this expression.(¬Ú€–
+Ujavascript:S1121á"3Extract the assignment of "n" from this expression.(ïÎË–ÿÿÿÿÿ
+Bjavascript:S878ˆ"!Unexpected use of comma operator.(ŒõÌ—ÿÿÿÿÿ
+Bjavascript:S878‹"!Unexpected use of comma operator.(ŒõÌ—ÿÿÿÿÿ
+=javascript:S878"!Unexpected use of comma operator.(å‘ò
+Qjavascript:S1117œ"/'point' is already declared in the upper scope.(©ŠŸ·şÿÿÿÿ
+Vjavascript:S1121"4Extract the assignment of "Î»" from this expression.(â¡Úşÿÿÿÿ
+Vjavascript:S1121"4Extract the assignment of "Ï†" from this expression.(â¡Úşÿÿÿÿ
+Qjavascript:S1117 "/'point' is already declared in the upper scope.(©ŠŸ·şÿÿÿÿ
+Qjavascript:S1117¯"/'point' is already declared in the upper scope.(©ŠŸ·şÿÿÿÿ
+4javascript:S2814À"'n' is already defined.(±éÛª
+Ljavascript:S1117À"/'point' is already declared in the upper scope.(±éÛª
+Bjavascript:S878Â"!Unexpected use of comma operator.(ŒõÌ—ÿÿÿÿÿ
+Tjavascript:S1121Ä"7Extract the assignment of "point" from this expression.(‰‚· 
+Sjavascript:S1121Ö"6Extract the assignment of "line" from this expression.(Óÿ­Ç
+Ujavascript:S1121è"3Extract the assignment of "a" from this expression.(’ˆĞıÿÿÿÿÿ
+Ujavascript:S1121è"3Extract the assignment of "b" from this expression.(’ˆĞıÿÿÿÿÿ
+Wjavascript:S1121õ"5Extract the assignment of "Ï†0" from this expression.(ˆµö°şÿÿÿÿ
+Qjavascript:S1121†"5Extract the assignment of "Î»0" from this expression.(ıú­Q
+Qjavascript:S1121†"5Extract the assignment of "Ï†0" from this expression.(ıú­Q
+Tjavascript:S1121”"8Extract the assignment of "cosÏ†1" from this expression.(Êºæ
+Tjavascript:S1121”"8Extract the assignment of "cosÏ†0" from this expression.(Êºæ
+Bjavascript:S878Å"!Unexpected use of comma operator.(ÀÂÕøÿÿÿÿ
+`javascript:S3358Ø"DExtract this nested ternary operation into an independent statement.(×ŠÀ
+`javascript:S3358Ø"DExtract this nested ternary operation into an independent statement.(×ŠÀ
+`javascript:S3358Ø"DExtract this nested ternary operation into an independent statement.(×ŠÀ
+=javascript:S878‚"!Unexpected use of comma operator.(£ÕŞ
+Bjavascript:S878š"!Unexpected use of comma operator.(úƒìĞúÿÿÿÿ
+=javascript:S878œ"!Unexpected use of comma operator.(äó¯ù
+fjavascript:S3358"DExtract this nested ternary operation into an independent statement.(ò¶ˆ¸ùÿÿÿÿ
+fjavascript:S3358"DExtract this nested ternary operation into an independent statement.(ò¶ˆ¸ùÿÿÿÿ
+Kjavascript:S1117¤".'code' is already declared in the upper scope.(ºéğ¹
+Vjavascript:S1121ë"4Extract the assignment of "x0" from this expression.(­€µûüÿÿÿÿ
+Vjavascript:S1121ë"4Extract the assignment of "y0" from this expression.(­€µûüÿÿÿÿ
+Vjavascript:S1121ë"4Extract the assignment of "x1" from this expression.(­€µûüÿÿÿÿ
+Vjavascript:S1121ë"4Extract the assignment of "y1" from this expression.(­€µûüÿÿÿÿ
+=javascript:S878ì"!Unexpected use of comma operator.(íŒŞ”
+Tjavascript:S1117¡"2'listener' is already declared in the upper scope.(ÊÜ âıÿÿÿÿ
+Sjavascript:S1121´"6Extract the assignment of "ring" from this expression.(Ğ°¸
+Bjavascript:S878È"!Unexpected use of comma operator.(³š‰¤úÿÿÿÿ
+Bjavascript:S878é"!Unexpected use of comma operator.(•ğâûÿÿÿÿ
+fjavascript:S3358î"DExtract this nested ternary operation into an independent statement.(ŞåÁ¬úÿÿÿÿ
+fjavascript:S3358î"DExtract this nested ternary operation into an independent statement.(ŞåÁ¬úÿÿÿÿ
+fjavascript:S3358î"DExtract this nested ternary operation into an independent statement.(ŞåÁ¬úÿÿÿÿ
+fjavascript:S3358î"DExtract this nested ternary operation into an independent statement.(ŞåÁ¬úÿÿÿÿ
+fjavascript:S3358î"DExtract this nested ternary operation into an independent statement.(ŞåÁ¬úÿÿÿÿ
+fjavascript:S3358î"DExtract this nested ternary operation into an independent statement.(ŞåÁ¬úÿÿÿÿ
+`javascript:S3358õ"DExtract this nested ternary operation into an independent statement.(êÑù
+`javascript:S3358õ"DExtract this nested ternary operation into an independent statement.(êÑù
+`javascript:S3358õ"DExtract this nested ternary operation into an independent statement.(êÑù
+Rjavascript:S1121ü"5Extract the assignment of "Ï†0" from this expression.(ş»ƒÅ
+Rjavascript:S1121ü"5Extract the assignment of "Ï†1" from this expression.(ş»ƒÅ
+Ijavascript:S1117ƒ",'Ï' is already declared in the upper scope.(¦¯´İ
+Qjavascript:S1121„"4Extract the assignment of "Î»" from this expression.(úü”¯
+djavascript:S1121Œ"GExtract the assignment of "d3.geo.conicEqualArea" from this expression.(şø›ñ
+ajavascript:S3358£"DExtract this nested ternary operation into an independent statement.(×—ÆÏ
+Bjavascript:S878ñ"!Unexpected use of comma operator.(Õ«Òùÿÿÿÿ
+=javascript:S878õ"!Unexpected use of comma operator.(ÚÈÍ
+Vjavascript:S1121Ï"4Extract the assignment of "x0" from this expression.(Éı¼ÿüÿÿÿÿ
+Vjavascript:S1121Ï"4Extract the assignment of "y0" from this expression.(Éı¼ÿüÿÿÿÿ
+Vjavascript:S1121Ö"4Extract the assignment of "x0" from this expression.(Éı¼ÿüÿÿÿÿ
+Vjavascript:S1121Ö"4Extract the assignment of "y0" from this expression.(Éı¼ÿüÿÿÿÿ
+Wjavascript:S1121à"5Extract the assignment of "x00" from this expression.(ßü¡úıÿÿÿÿ
+Wjavascript:S1121à"5Extract the assignment of "y00" from this expression.(ßü¡úıÿÿÿÿ
+Vjavascript:S1121ë"4Extract the assignment of "x0" from this expression.(Éı¼ÿüÿÿÿÿ
+Vjavascript:S1121ë"4Extract the assignment of "y0" from this expression.(Éı¼ÿüÿÿÿÿ
+Ojavascript:S1117¦ "2'resample' is already declared in the upper scope.(§ÙñÃ
+Qjavascript:S1121¾ "4Extract the assignment of "x0" from this expression.(ÑŞ°Î
+Qjavascript:S1121¾ "4Extract the assignment of "y0" from this expression.(ÑŞ°Î
+Rjavascript:S1121¾ "5Extract the assignment of "Î»0" from this expression.(ÑŞ°Î
+Qjavascript:S1121¾ "4Extract the assignment of "a0" from this expression.(ÑŞ°Î
+Qjavascript:S1121¾ "4Extract the assignment of "b0" from this expression.(ÑŞ°Î
+Qjavascript:S1121¾ "4Extract the assignment of "c0" from this expression.(ÑŞ°Î
+Sjavascript:S1121Ë "6Extract the assignment of "Î»00" from this expression.(Æ´èè
+Ojavascript:S1854Ë "2Remove this useless assignment to variable "Ï†00".(Æ´èè
+Sjavascript:S1121Ë "6Extract the assignment of "Ï†00" from this expression.(Æ´èè
+=javascript:S878Ë "!Unexpected use of comma operator.(Æ´èè
+njavascript:S107Õ "MFunction 'resampleLineTo' has too many parameters (14). Maximum allowed is 7.(ß÷ù·şÿÿÿÿ
+Pjavascript:S1121Ø "3Extract the assignment of "c" from this expression.(û
+Ujavascript:S1121Ú "3Extract the assignment of "a" from this expression.(üÃÌ±øÿÿÿÿ
+Ujavascript:S1121Ú "3Extract the assignment of "b" from this expression.(üÃÌ±øÿÿÿÿ
+ajavascript:S3358ù "DExtract this nested ternary operation into an independent statement.(­ ¿å
+ajavascript:S3358ù "DExtract this nested ternary operation into an independent statement.(­ ¿å
+gjavascript:S1121ü "EExtract the assignment of "d3_geo_pathBoundsX0" from this expression.(ØÊƒ‡üÿÿÿÿ
+^javascript:S1121‚!"<Extract the assignment of "projection" from this expression.(½œ‹¯üÿÿÿÿ
+Xjavascript:S3800‹!"6Refactor this function to always return the same type.(º‡µâüÿÿÿÿ
+Hjavascript:S1117Ú!"+'x' is already declared in the upper scope.(”üÆş
+Hjavascript:S1117Ú!"+'y' is already declared in the upper scope.(”üÆş
+Xjavascript:S1121î!";Extract the assignment of "clipAngle" from this expression.(¦ëŠ•
+Xjavascript:S3800÷!"6Refactor this function to always return the same type.(¾£×‡şÿÿÿÿ
+Ujavascript:S1121‘""8Extract the assignment of "rotate" from this expression.(¡…ÿ±
+=javascript:S878˜""!Unexpected use of comma operator.(íŒŞ”
+ejavascript:S1121©""HExtract the assignment of "d3.geo.equirectangular" from this expression.(¹Ûç»
+=javascript:S878°""!Unexpected use of comma operator.(´…Ÿ¹
+=javascript:S878´""!Unexpected use of comma operator.(´…Ÿ¹
+fjavascript:S3358¹""DExtract this nested ternary operation into an independent statement.(¤ø®ùÿÿÿÿ
+Sjavascript:S3800¼""6Refactor this function to always return the same type.( ì¦Õ
+ajavascript:S3358½""DExtract this nested ternary operation into an independent statement.(Àæàƒ
+ajavascript:S3358½""DExtract this nested ternary operation into an independent statement.(Àæàƒ
+Bjavascript:S878Á""!Unexpected use of comma operator.(½¤¦Åøÿÿÿÿ
+fjavascript:S3358Á""DExtract this nested ternary operation into an independent statement.(½¤¦Åøÿÿÿÿ
+Ujavascript:S1121Û""3Extract the assignment of "x" from this expression.(¨«Ìàûÿÿÿÿ
+Bjavascript:S878Ü""!Unexpected use of comma operator.(äÔ¯ÿÿÿÿÿ
+Yjavascript:S1121ë""7Extract the assignment of "angle" from this expression.(ûÆâøÿÿÿÿ
+Sjavascript:S3800î""6Refactor this function to always return the same type.(ÔÆ¥³
+Xjavascript:S1121ğ"";Extract the assignment of "precision" from this expression.(‡å¤™
+Tjavascript:S1121‚#"7Extract the assignment of "point" from this expression.(µı
+Pjavascript:S1121#"3Extract the assignment of "t" from this expression.(öÚŞ‹
+Pjavascript:S1121#"3Extract the assignment of "t" from this expression.(öÚŞ‹
+Mjavascript:S1117š#"+'x' is already declared in the upper scope.(å ÿÓøÿÿÿÿ
+Mjavascript:S1117œ#"+'y' is already declared in the upper scope.(›°´ïşÿÿÿÿ
+=javascript:S878´#"!Unexpected use of comma operator.(ĞîÎ¾
+<javascript:S878µ#"!Unexpected use of comma operator.(—"
+Bjavascript:S878¶#"!Unexpected use of comma operator.(øùÄÖÿÿÿÿÿ
+Bjavascript:S878·#"!Unexpected use of comma operator.(ã¼ÃÙıÿÿÿÿ
+Bjavascript:S878¼#"!Unexpected use of comma operator.(Û‘´ƒüÿÿÿÿ
+Bjavascript:S878½#"!Unexpected use of comma operator.(šã…ıÿÿÿÿÿ
+Bjavascript:S878¾#"!Unexpected use of comma operator.(æÊÈ·şÿÿÿÿ
+Bjavascript:S878¿#"!Unexpected use of comma operator.(éÎğ»ùÿÿÿÿ
+=javascript:S878È#"!Unexpected use of comma operator.(öÇÑŠ
+Bjavascript:S878Í#"!Unexpected use of comma operator.(‘ì¥åùÿÿÿÿ
+Xjavascript:S3800Ğ#"6Refactor this function to always return the same type.(ÏõõØûÿÿÿÿ
+Mjavascript:S1117Ş#"+'y' is already declared in the upper scope.(£‡İãşÿÿÿÿ
+Mjavascript:S1117æ#"+'x' is already declared in the upper scope.(£ŒÀèùÿÿÿÿ
+Sjavascript:S3800ü#"6Refactor this function to always return the same type.(í°ú¿
+=javascript:S878ş#"!Unexpected use of comma operator.(¿©´
+Xjavascript:S3800$"6Refactor this function to always return the same type.(ŸÓƒÑüÿÿÿÿ
+Bjavascript:S878ƒ$"!Unexpected use of comma operator.(Òßç¶şÿÿÿÿ
+Xjavascript:S3800†$"6Refactor this function to always return the same type.(‡™·¶üÿÿÿÿ
+Pjavascript:S1121‘$"3Extract the assignment of "t" from this expression.(ó”–Ù
+Bjavascript:S878ª$"!Unexpected use of comma operator.(ÂÍ‹¼ûÿÿÿÿ
+Vjavascript:S1121ª$"4Extract the assignment of "Ï†" from this expression.(ÂÍ‹¼ûÿÿÿÿ
+Qjavascript:S1121±$"4Extract the assignment of "Ï†" from this expression.(ı£Æğ
+Qjavascript:S1121±$"4Extract the assignment of "Î»" from this expression.(ı£Æğ
+Pjavascript:S1121²$"3Extract the assignment of "t" from this expression.(„í¸
+Pjavascript:S1121²$"3Extract the assignment of "t" from this expression.(„í¸
+Bjavascript:S878³$"!Unexpected use of comma operator.(œ×û‘øÿÿÿÿ
+Ijavascript:S1117¼$",'Ï' is already declared in the upper scope.(…£¯
+Ijavascript:S1117Ã$",'Ï' is already declared in the upper scope.(ÅÍ
+mjavascript:S1121Æ$"KExtract the assignment of "d3.geo.azimuthalEqualArea" from this expression.(èƒ‰ïıÿÿÿÿ
+ojavascript:S1121Í$"MExtract the assignment of "d3.geo.azimuthalEquidistant" from this expression.(Û•âüÿÿÿÿ
+Hjavascript:S1117Û$",'Ï' is already declared in the upper scope.(­§—&
+Ijavascript:S1117ß$",'Ï' is already declared in the upper scope.(ÌãöÓ
+ijavascript:S1121ä$"GExtract the assignment of "d3.geo.conicConformal" from this expression.(ó¸Šøÿÿÿÿ
+Njavascript:S1117ë$",'Ï' is already declared in the upper scope.(øÊ³†üÿÿÿÿ
+kjavascript:S1121ô$"IExtract the assignment of "d3.geo.conicEquidistant" from this expression.(ğ„Í½ûÿÿÿÿ
+^javascript:S1121ú$"AExtract the assignment of "d3.geo.gnomonic" from this expression.(§ß¶˜
+ajavascript:S3358‡%"DExtract this nested ternary operation into an independent statement.(ÒŸ®Ó
+ajavascript:S3358‹%"DExtract this nested ternary operation into an independent statement.(ÒŸ®Ó
+Wjavascript:S1121%":Extract the assignment of "clipAuto" from this expression.(§”óğ
+cjavascript:S1121›%"AExtract the assignment of "d3.geo.mercator" from this expression.(ì×†¢ûÿÿÿÿ
+bjavascript:S1121¡%"EExtract the assignment of "d3.geo.orthographic" from this expression.(¨ÑÜë
+Ijavascript:S1117¦%",'Ï' is already declared in the upper scope.(ÅÍ
+hjavascript:S1121©%"FExtract the assignment of "d3.geo.stereographic" from this expression.(ùÊÑ’şÿÿÿÿ
+mjavascript:S1121²%"KExtract the assignment of "d3.geo.transverseMercator" from this expression.(ò½Ãşÿÿÿÿ
+Pjavascript:S1121ˆ&"3Extract the assignment of "m" from this expression.(ï’ß®
+Bjavascript:S878¸'"!Unexpected use of comma operator.(æ†¨úÿÿÿÿ
+Bjavascript:S878¹'"!Unexpected use of comma operator.(í¢Àşÿÿÿÿ
+ajavascript:S3358¾'"DExtract this nested ternary operation into an independent statement.(Éî¨«
+fjavascript:S3358Á'"DExtract this nested ternary operation into an independent statement.(İÁœÖøÿÿÿÿ
+fjavascript:S3358Ä'"DExtract this nested ternary operation into an independent statement.(×ğä·øÿÿÿÿ
+5javascript:S2814Ü'"'cy' is already defined.(ØŞùÌ
+javascript:S2234Ü("dArguments 'rSite' and 'lSite' have the same names but not the same order as the function parameters.(Íû±ˆ
+†javascript:S2234Ş("dArguments 'rSite' and 'lSite' have the same names but not the same order as the function parameters.(¿‹ßîÿÿÿÿÿ
+fjavascript:S3358÷("DExtract this nested ternary operation into an independent statement.(êİ©Åøÿÿÿÿ
+=javascript:S878Ñ*"!Unexpected use of comma operator.(“ˆ¯
+gjavascript:S905Ú*"FExpected an assignment or function call and instead saw an expression.(÷ùşúÿÿÿÿ
+Bjavascript:S878Ú*"!Unexpected use of comma operator.(÷ùşúÿÿÿÿ
+–javascript:S3699Ú*"tRemove this use of the output from "d3_geom_voronoiCloseCells"; "d3_geom_voronoiCloseCells" doesn't return anything.(÷ùşúÿÿÿÿ
+ajavascript:S3358î*"DExtract this nested ternary operation into an independent statement.(Ò®¯¬
+Mjavascript:S1854‹+"0Remove this useless assignment to variable "e0".(ÈÙ‘ä
+Pjavascript:S1121—+"3Extract the assignment of "x" from this expression.(ü‡ëÿ
+Pjavascript:S1121š+"3Extract the assignment of "y" from this expression.(Óîô¹
+Xjavascript:S3800®+"6Refactor this function to always return the same type.(¦¢ş¨úÿÿÿÿ
+Zjavascript:S1121°+"8Extract the assignment of "compat" from this expression.(üæ™·ùÿÿÿÿ
+Bjavascript:S878½+"!Unexpected use of comma operator.(ëøìÖùÿÿÿÿ
+Wjavascript:S1121¿+"5Extract the assignment of "x1_" from this expression.(¸¯ùıüÿÿÿÿ
+Bjavascript:S878À+"!Unexpected use of comma operator.(òÒúÿÿÿÿ
+Pjavascript:S1121Ë+"3Extract the assignment of "d" from this expression.(™³Òç
+`javascript:S107Ö+"DFunction 'insert' has too many parameters (8). Maximum allowed is 7.(Ï›Óó
+Hjavascript:S1117Ö+"+'n' is already declared in the upper scope.(Ï›Óó
+Hjavascript:S1117Ö+"+'d' is already declared in the upper scope.(Ï›Óó
+Hjavascript:S1117Ö+"+'x' is already declared in the upper scope.(Ï›Óó
+Hjavascript:S1117Ö+"+'y' is already declared in the upper scope.(Ï›Óó
+Ijavascript:S1117Ö+",'x1' is already declared in the upper scope.(Ï›Óó
+Ijavascript:S1117Ö+",'y1' is already declared in the upper scope.(Ï›Óó
+Ijavascript:S1117Ö+",'x2' is already declared in the upper scope.(Ï›Óó
+Ijavascript:S1117Ö+",'y2' is already declared in the upper scope.(Ï›Óó
+Bjavascript:S878ä+"!Unexpected use of comma operator.(ÁÚåñıÿÿÿÿ
+ejavascript:S107ê+"IFunction 'insertChild' has too many parameters (8). Maximum allowed is 7.(ì‡ˆş
+Hjavascript:S1117ê+"+'n' is already declared in the upper scope.(ì‡ˆş
+Hjavascript:S1117ê+"+'d' is already declared in the upper scope.(ì‡ˆş
+Hjavascript:S1117ê+"+'x' is already declared in the upper scope.(ì‡ˆş
+Hjavascript:S1117ê+"+'y' is already declared in the upper scope.(ì‡ˆş
+Ijavascript:S1117ê+",'x1' is already declared in the upper scope.(ì‡ˆş
+Ijavascript:S1117ê+",'y1' is already declared in the upper scope.(ì‡ˆş
+Ijavascript:S1117ê+",'x2' is already declared in the upper scope.(ì‡ˆş
+Ijavascript:S1117ê+",'y2' is already declared in the upper scope.(ì‡ˆş
+Gjavascript:S1117ë+"+'i' is already declared in the upper scope.(ûŒ×B
+Mjavascript:S1117ó+"+'d' is already declared in the upper scope.(úşìşÿÿÿÿ
+Rjavascript:S1854ƒ,"0Remove this useless assignment to variable "xs".(Õÿå“ÿÿÿÿÿ
+Rjavascript:S1854ƒ,"0Remove this useless assignment to variable "ys".(Õÿå“ÿÿÿÿÿ
+Tjavascript:S1854ƒ,"2Remove this useless assignment to variable "data".(Õÿå“ÿÿÿÿÿ
+Qjavascript:S1854ƒ,"/Remove this useless assignment to variable "d".(Õÿå“ÿÿÿÿÿ
+=javascript:S878,"!Unexpected use of comma operator.(ûÎÚ
+=javascript:S878”,"!Unexpected use of comma operator.(Ì°ç“
+Tjavascript:S1121µ,"7Extract the assignment of "point" from this expression.(û€å²
+[javascript:S1121¸,">Extract the assignment of "minDistance2" from this expression.(ºìüÌ
+Bjavascript:S878¹,"!Unexpected use of comma operator.(Ÿ™ØĞıÿÿÿÿ
+Bjavascript:S878º,"!Unexpected use of comma operator.(Íşˆúıÿÿÿÿ
+Sjavascript:S1121À,"6Extract the assignment of "node" from this expression.(¨«•ÿ
+<javascript:S878ô,"!Unexpected use of comma operator.(şÙÒJ
+Bjavascript:S878ü,"!Unexpected use of comma operator.(Å‡İ²üÿÿÿÿ
+Vjavascript:S1121ı,"4Extract the assignment of "am" from this expression.(ôåÖ¢ıÿÿÿÿ
+Qjavascript:S1854-"/Remove this useless assignment to variable "i".(áÈóİúÿÿÿÿ
+ajavascript:S3358‘-"DExtract this nested ternary operation into an independent statement.(Óë
+Hjavascript:S1117–-"+'i' is already declared in the upper scope.(ÎÑ£¨
+Pjavascript:S1121–-"3Extract the assignment of "o" from this expression.(ÎÑ£¨
+Ujavascript:S1121-"3Extract the assignment of "f" from this expression.(ù¯ÃÅşÿÿÿÿ
+`javascript:S3358£-"DExtract this nested ternary operation into an independent statement.(’ŸŠ
+`javascript:S3358£-"DExtract this nested ternary operation into an independent statement.(’ŸŠ
+`javascript:S3358£-"DExtract this nested ternary operation into an independent statement.(’ŸŠ
+`javascript:S3358£-"DExtract this nested ternary operation into an independent statement.(’ŸŠ
+fjavascript:S3358Û-"DExtract this nested ternary operation into an independent statement.(§½¯¾ÿÿÿÿÿ
+=javascript:S878…."!Unexpected use of comma operator.(æ–âñ
+fjavascript:S3358‘."DExtract this nested ternary operation into an independent statement.(úœçÁÿÿÿÿÿ
+Ujavascript:S1121‘."3Extract the assignment of "t" from this expression.(úœçÁÿÿÿÿÿ
+fjavascript:S3358‘."DExtract this nested ternary operation into an independent statement.(úœçÁÿÿÿÿÿ
+Ujavascript:S1121‘."3Extract the assignment of "t" from this expression.(úœçÁÿÿÿÿÿ
+Ujavascript:S1121‘."3Extract the assignment of "t" from this expression.(úœçÁÿÿÿÿÿ
+Bjavascript:S878˜."!Unexpected use of comma operator.(…ò³îûÿÿÿÿ
+Bjavascript:S878™."!Unexpected use of comma operator.(»Ï®¯ıÿÿÿÿ
+=javascript:S878£."!Unexpected use of comma operator.(«ÖÉ
+Bjavascript:S878¤."!Unexpected use of comma operator.(»Ï®¯ıÿÿÿÿ
+[javascript:S1121».">Extract the assignment of "d3.transform" from this expression.(Û¦àÃ
+Mjavascript:S1117»."0'string' is already declared in the upper scope.(Û¦àÃ
+Bjavascript:S878¢/"!Unexpected use of comma operator.(ª†şèÿÿÿÿÿ
+Ljavascript:S1854§/"/Remove this useless assignment to variable "a".(®­õõ
+Ljavascript:S1854§/"/Remove this useless assignment to variable "b".(®­õõ
+Ujavascript:S1121ª/"3Extract the assignment of "o" from this expression.(ÚĞ‚•ûÿÿÿÿ
+Ujavascript:S1121¯/"3Extract the assignment of "b" from this expression.(ßŠø—ıÿÿÿÿ
+Ujavascript:S1121µ/"3Extract the assignment of "b" from this expression.(ßŠø—ıÿÿÿÿ
+=javascript:S878é/"!Unexpected use of comma operator.(ÜµàÓ
+=javascript:S878ë/"!Unexpected use of comma operator.(½÷ÚÍ
+Gjavascript:S1117ù/"+'i' is already declared in the upper scope.(¦ïç[
+=javascript:S878€0"!Unexpected use of comma operator.(ÊÇ¾Ù
+=javascript:S878‚0"!Unexpected use of comma operator.(„ŸÅì
+Zjavascript:S1121®0"8Extract the assignment of "matrix" from this expression.(Ò°õïøÿÿÿÿ
+Xjavascript:S3800²0"6Refactor this function to always return the same type.(´­Ñùÿÿÿÿ
+4javascript:S2814ã0"'k' is already defined.(ë—ø¿
+Tjavascript:S1121ğ0"7Extract the assignment of "alpha" from this expression.(ñó‡Æ
+Pjavascript:S1121û0"3Extract the assignment of "l" from this expression.(£¤ƒ’
+Pjavascript:S1121ü0"3Extract the assignment of "l" from this expression.(šÀŸ©
+Ujavascript:S1121ÿ0"3Extract the assignment of "k" from this expression.(×§ßĞıÿÿÿÿ
+Ujavascript:S11211"3Extract the assignment of "k" from this expression.(«¬©ûÿÿÿÿ
+Pjavascript:S1121…1"3Extract the assignment of "k" from this expression.(¦õÅ˜
+Ujavascript:S11211"3Extract the assignment of "q" from this expression.(‰ïóşÿÿÿÿ
+Pjavascript:S1121“1"3Extract the assignment of "o" from this expression.(ß¢Àâ
+Rjavascript:S1121Ÿ1"6Extract the assignment of "o.px" from this expression.(µƒ¯:
+Xjavascript:S1121 1"6Extract the assignment of "o.py" from this expression.(—­èÊøÿÿÿÿ
+Sjavascript:S3800·1"6Refactor this function to always return the same type.(ù¥è
+Xjavascript:S3800½1"6Refactor this function to always return the same type.(ÀğÂÙşÿÿÿÿ
+Sjavascript:S3800Â1"6Refactor this function to always return the same type.(¬™ùæ
+Xjavascript:S3800Ç1"6Refactor this function to always return the same type.(¡ÅèŸüÿÿÿÿ
+Xjavascript:S3800Ñ1"6Refactor this function to always return the same type.(¥‡‘şıÿÿÿÿ
+Bjavascript:S878â1"!Unexpected use of comma operator.(ÊÚÅúÿÿÿÿ
+Tjavascript:S1121å1"7Extract the assignment of "alpha" from this expression.(ñó‡Æ
+Sjavascript:S1121ë1"7Extract the assignment of "alpha" from this expression.(¡•µQ
+Ujavascript:S1121ô1"3Extract the assignment of "o" from this expression.(‰òƒ†şÿÿÿÿ
+Kjavascript:S1117‹2".'size' is already declared in the upper scope.(ËÑ´õ
+Hjavascript:S1117’2"+'o' is already declared in the upper scope.(Ú²Œù
+Pjavascript:S1121˜2"3Extract the assignment of "x" from this expression.(ì—–Æ
+Bjavascript:S878©2"!Unexpected use of comma operator.(ÂçÈ´úÿÿÿÿ
+Bjavascript:S878¶2"!Unexpected use of comma operator.(Åì‘Şúÿÿÿÿ
+Ujavascript:S1121Ş2"8Extract the assignment of "childs" from this expression.(ì‚­
+Tjavascript:S1121á2"7Extract the assignment of "child" from this expression.(ÆæÍÑ
+Kjavascript:S1117ì2".'node' is already declared in the upper scope.(Øá¥
+Mjavascript:S1117í2"0'childs' is already declared in the upper scope.(ã°¿Ö
+Xjavascript:S3800ó2"6Refactor this function to always return the same type.(®ú³ğøÿÿÿÿ
+Tjavascript:S1121Š3"8Extract the assignment of "parent" from this expression.(ÂŠõK
+Wjavascript:S1121›3":Extract the assignment of "children" from this expression.(ÏÁ¤ü
+Wjavascript:S1121¥3":Extract the assignment of "children" from this expression.(ÏÁ¤ü
+Pjavascript:S1121Í3"3Extract the assignment of "c" from this expression.(¦‡ªş
+Pjavascript:S1121Í3"3Extract the assignment of "d" from this expression.(¦‡ªş
+Ujavascript:S1121ô3"3Extract the assignment of "v" from this expression.(áë¦Ğúÿÿÿÿ
+Ojavascript:S1121ö3"3Extract the assignment of "a" from this expression.(“¥¯1
+Rjavascript:S3800†4"6Refactor this function to always return the same type.(öí¨
+Sjavascript:S3800‹4"6Refactor this function to always return the same type.(ûÇÌ¿
+Sjavascript:S38004"6Refactor this function to always return the same type.(ó‰ÀÈ
+]javascript:S3516š4";Refactor this function to not always return the same value.(¹©û–úÿÿÿÿ
+Pjavascript:S1121›4"3Extract the assignment of "n" from this expression.(áé¤
+Hjavascript:S1117œ4"+'i' is already declared in the upper scope.(«ä¨Õ
+Hjavascript:S1117 4"+'i' is already declared in the upper scope.(ÛË÷å
+Ujavascript:S1121ª4"3Extract the assignment of "o" from this expression.(´ÿš—ıÿÿÿÿ
+Pjavascript:S1121¬4"3Extract the assignment of "o" from this expression.(¬©êÿ
+Xjavascript:S3800±4"6Refactor this function to always return the same type.(âµéãûÿÿÿÿ
+Mjavascript:S1117±4"+'x' is already declared in the upper scope.(âµéãûÿÿÿÿ
+Xjavascript:S3800¶4"6Refactor this function to always return the same type.(¸»¥Éüÿÿÿÿ
+Mjavascript:S1117¶4"+'x' is already declared in the upper scope.(¸»¥Éüÿÿÿÿ
+Sjavascript:S3800»4"6Refactor this function to always return the same type.(ëï€à
+Hjavascript:S1117»4"+'x' is already declared in the upper scope.(ëï€à
+Sjavascript:S3800À4"6Refactor this function to always return the same type.(Àÿı”
+Xjavascript:S3800Å4"6Refactor this function to always return the same type.(ùŒ×âÿÿÿÿÿ
+9javascript:S2814µ5"'i' is already defined.(‹òúÿùÿÿÿÿ
+Yjavascript:S1121¸5"7Extract the assignment of "bin.x" from this expression.(ÔÙƒìıÿÿÿÿ
+Xjavascript:S3800Í5"6Refactor this function to always return the same type.(ÁìÓŸıÿÿÿÿ
+Xjavascript:S3800Ù5"6Refactor this function to always return the same type.(Í·“–üÿÿÿÿ
+fjavascript:S3358î5"DExtract this nested ternary operation into an independent statement.(†È¯ùÿÿÿÿ
+Mjavascript:S1117ò5"+'d' is already declared in the upper scope.(îÖËüÿÿÿÿ
+Mjavascript:S1117ø5"+'d' is already declared in the upper scope.(îÖËüÿÿÿÿ
+Mjavascript:S1117ü5"+'d' is already declared in the upper scope.(îÖËüÿÿÿÿ
+Xjavascript:S38006"6Refactor this function to always return the same type.(“³íÿÿÿÿÿ
+Yjavascript:S1121§6"7Extract the assignment of "nodes" from this expression.(ø£‹÷øÿÿÿÿ
+Ujavascript:S1121§6"3Extract the assignment of "n" from this expression.(ø£‹÷øÿÿÿÿ
+Pjavascript:S1117©6".'node' is already declared in the upper scope.( «¡‰ûÿÿÿÿ
+Ojavascript:S1121Â6"3Extract the assignment of "c" from this expression.(Ã½Ğe
+Ujavascript:S1121Ò6"3Extract the assignment of "b" from this expression.(ÿ®¾ùÿÿÿÿ
+Ujavascript:S1121Ò6"3Extract the assignment of "a" from this expression.(ÿ®¾ùÿÿÿÿ
+:javascript:S2310Ó6"Remove this assignment of "i".(¨…ÄK
+Qjavascript:S1121ı6"4Extract the assignment of "db" from this expression.(½Øåë
+<javascript:S878‰7"!Unexpected use of comma operator.(É¯“
+_javascript:S1121¡7"=Extract the assignment of "children[i]" from this expression.(Î¡¬­şÿÿÿÿ
+Tjavascript:S1121¤7"7Extract the assignment of "child" from this expression.(Áü´°
+˜javascript:S1121­7"õExtract the assignment of "(children[i] = child = {
+            _: children[i],
+            parent: node1,
+            children: (child = children[i].children) && child.slice() || [],
+            A: null,
+            a: null,
+            z: 0,
+            m: 0,
+            c: 0,
+            s: 0,
+            t: null,
+            i: i
+          }).a" from this expression.(€½Ûşşÿÿÿÿ
+Bjavascript:S878É7"!Unexpected use of comma operator.(’å…·şÿÿÿÿ
+Xjavascript:S3800è7"6Refactor this function to always return the same type.(³é‰”ıÿÿÿÿ
+Pjavascript:S1121‚8"3Extract the assignment of "n" from this expression.(ÕŸÎğ
+Ujavascript:S1121’8"8Extract the assignment of "change" from this expression.(¬ªÀ–
+Pjavascript:S1121¢8"3Extract the assignment of "x" from this expression.(€åš½
+Xjavascript:S3800±8"6Refactor this function to always return the same type.(àÆßöıÿÿÿÿ
+Yjavascript:S1121Ù8"7Extract the assignment of "child" from this expression.(°Õá¡øÿÿÿÿ
+fjavascript:S3358à8"DExtract this nested ternary operation into an independent statement.(˜„Ñ¥ÿÿÿÿÿ
+fjavascript:S3358à8"DExtract this nested ternary operation into an independent statement.(˜„Ñ¥ÿÿÿÿÿ
+fjavascript:S3358à8"DExtract this nested ternary operation into an independent statement.(˜„Ñ¥ÿÿÿÿÿ
+Yjavascript:S1121ä8"7Extract the assignment of "child" from this expression.(Ç’î„ÿÿÿÿÿ
+Pjavascript:S1121Œ9"3Extract the assignment of "r" from this expression.(ˆ–Úğ
+Bjavascript:S878µ9"!Unexpected use of comma operator.(ÕçÑùÿÿÿÿ
+ajavascript:S3358Å9"DExtract this nested ternary operation into an independent statement.(³÷íÛ
+ajavascript:S3358Ë9"DExtract this nested ternary operation into an independent statement.(²ˆÚ
+ajavascript:S3358Ë9"DExtract this nested ternary operation into an independent statement.(²ˆÚ
+Sjavascript:S3800Ï9"6Refactor this function to always return the same type.(İ©–ö
+Sjavascript:S3800Ô9"6Refactor this function to always return the same type.(Ôå¿û
+Xjavascript:S3800Ú9"6Refactor this function to always return the same type.(º™øùÿÿÿÿ
+Sjavascript:S3800ß9"6Refactor this function to always return the same type.(Ãéö¡
+=javascript:S878²:"!Unexpected use of comma operator.(Ä¬üó
+=javascript:S878³:"!Unexpected use of comma operator.(ÒïÛ
+Mjavascript:S1117Ò:"+'j' is already declared in the upper scope.(ËĞÛ³ÿÿÿÿÿ
+‡javascript:S2234Ş:"eArguments 'range' and 'domain' have the same names but not the same order as the function parameters.(Ùñüªşÿÿÿÿ
+ajavascript:S3358É;"DExtract this nested ternary operation into an independent statement.(Û†É
+ajavascript:S3358É;"DExtract this nested ternary operation into an independent statement.(Û†É
+Ujavascript:S1121×;"8Extract the assignment of "domain" from this expression.(¢àÎ«
+Ijavascript:S1264î;",Replace this "for" loop with a "while" loop.(‘‹âŸ
+4javascript:S2814î;"'k' is already defined.(‘‹âŸ
+1javascript:S108ğ;"Empty block statement.(Ÿ÷Ğ%
+7javascript:S108ñ;"Empty block statement.(úÃíğùÿÿÿÿ
+Ujavascript:S1121š<"8Extract the assignment of "domain" from this expression.(‘‰äù
+Wjavascript:S1121¨<":Extract the assignment of "exponent" from this expression.(Ôñ²¤
+Qjavascript:S1121Ï<"4Extract the assignment of "xi" from this expression.(«“æ¾
+Pjavascript:S1121µ="3Extract the assignment of "x" from this expression.(ÁÇ–ö
+vjavascript:S4144¼="YUpdate this function so that its implementation is not identical to the one on line 7532.(Œ¿Ş€
+vjavascript:S4144à="YUpdate this function so that its implementation is not identical to the one on line 7532.(Œ¿Ş€
+hjavascript:S1764ô="KCorrect one of the identical sub-expressions on both sides of operator "<="(É ’‡
+Bjavascript:S878©>"!Unexpected use of comma operator.(Çõ‹¸øÿÿÿÿ
+Qjavascript:S1121¬>"4Extract the assignment of "ap" from this expression.(Â™Ïº
+ajavascript:S3358Ô>"DExtract this nested ternary operation into an independent statement.(Ê„‹§
+Rjavascript:S3800ø>"6Refactor this function to always return the same type.(‰»»{
+Sjavascript:S3800ı>"6Refactor this function to always return the same type.(ì÷ÿê
+Sjavascript:S3800‚?"6Refactor this function to always return the same type.(ÂŞşÌ
+Xjavascript:S3800‡?"6Refactor this function to always return the same type.(›ÄˆØüÿÿÿÿ
+Sjavascript:S3800Œ?"6Refactor this function to always return the same type.(ª„ª”
+Sjavascript:S3800‘?"6Refactor this function to always return the same type.(¹ÍÖõ
+Sjavascript:S3800–?"6Refactor this function to always return the same type.(ØåË
+Bjavascript:S878¶?"!Unexpected use of comma operator.(Ø–‹åùÿÿÿÿ
+Ujavascript:S1121Á?"3Extract the assignment of "d" from this expression.(ªÂÔæùÿÿÿÿ
+Xjavascript:S3800Õ?"6Refactor this function to always return the same type.(©”µÏÿÿÿÿÿ
+Zjavascript:S1121Ü?"=Extract the assignment of "interpolate" from this expression.(¼–¬¥
+Xjavascript:S3800ß?"6Refactor this function to always return the same type.(¡úÆÄøÿÿÿÿ
+Ujavascript:S1121„@"3Extract the assignment of "p" from this expression.(ô±ıÀÿÿÿÿÿ
+Pjavascript:S1121Š@"3Extract the assignment of "p" from this expression.(²ö½º
+Pjavascript:S1121@"3Extract the assignment of "p" from this expression.(Ù¯£Æ
+Qjavascript:S1121Ã@"4Extract the assignment of "pi" from this expression.(Úãâş
+Ojavascript:S1121’A"3Extract the assignment of "d" from this expression.(Ë‰›Q
+Ljavascript:S1854’A"0Remove this useless assignment to variable "p0".(Ë‰›Q
+Pjavascript:S1121’A"4Extract the assignment of "p0" from this expression.(Ë‰›Q
+Pjavascript:S1121’A"4Extract the assignment of "p1" from this expression.(Ë‰›Q
+gjavascript:S905´A"FExpected an assignment or function call and instead saw an expression.(œ¢ÂĞûÿÿÿÿ
+Bjavascript:S878´A"!Unexpected use of comma operator.(œ¢ÂĞûÿÿÿÿ
+bjavascript:S905µA"FExpected an assignment or function call and instead saw an expression.(ÇøÁ
+=javascript:S878µA"!Unexpected use of comma operator.(ÇøÁ
+mjavascript:S3403ÈA"KRemove this "===" check; it will always be false. Did you mean to use "=="?(†„Ô­üÿÿÿÿ
+Ujavascript:S1121ÏA"3Extract the assignment of "d" from this expression.(ªÂÔæùÿÿÿÿ
+Pjavascript:S1121ĞA"3Extract the assignment of "x" from this expression.(ñŒ¶Û
+Pjavascript:S1121ĞA"3Extract the assignment of "y" from this expression.(ñŒ¶Û
+Xjavascript:S3800ïA"6Refactor this function to always return the same type.(µóÑ¡üÿÿÿÿ
+Sjavascript:S3800ùA"6Refactor this function to always return the same type.(ìä¹ö
+Zjavascript:S1121€B"=Extract the assignment of "interpolate" from this expression.(¼–¬¥
+Xjavascript:S3800…B"6Refactor this function to always return the same type.(§ßÖÇÿÿÿÿÿ
+bjavascript:S905“B"FExpected an assignment or function call and instead saw an expression.(§ ·ï
+=javascript:S878“B"!Unexpected use of comma operator.(§ ·ï
+gjavascript:S905”B"FExpected an assignment or function call and instead saw an expression.(¼şÿ÷ÿÿÿÿÿ
+Bjavascript:S878”B"!Unexpected use of comma operator.(¼şÿ÷ÿÿÿÿÿ
+gjavascript:S905•B"FExpected an assignment or function call and instead saw an expression.(«ä½‘ÿÿÿÿÿ
+Bjavascript:S878•B"!Unexpected use of comma operator.(«ä½‘ÿÿÿÿÿ
+gjavascript:S905–B"FExpected an assignment or function call and instead saw an expression.(ËÖ§´şÿÿÿÿ
+Bjavascript:S878–B"!Unexpected use of comma operator.(ËÖ§´şÿÿÿÿ
+gjavascript:S905—B"FExpected an assignment or function call and instead saw an expression.(‚Ş‰—ùÿÿÿÿ
+Bjavascript:S878—B"!Unexpected use of comma operator.(‚Ş‰—ùÿÿÿÿ
+gjavascript:S905˜B"FExpected an assignment or function call and instead saw an expression.(­úü°üÿÿÿÿ
+Bjavascript:S878˜B"!Unexpected use of comma operator.(­úü°üÿÿÿÿ
+Tjavascript:S1117¢B"2'subgroup' is already declared in the upper scope.(øìí¥ûÿÿÿÿ
+Sjavascript:S3800´B"6Refactor this function to always return the same type.(ñëÖÀ
+Xjavascript:S3800¹B"6Refactor this function to always return the same type.(êŠ¬Äûÿÿÿÿ
+Sjavascript:S3800¾B"6Refactor this function to always return the same type.(Œò÷õ
+Sjavascript:S3800ÃB"6Refactor this function to always return the same type.(¤ÉÖæ
+Xjavascript:S3800ÈB"6Refactor this function to always return the same type.(¢Ç¤Üıÿÿÿÿ
+Xjavascript:S3800ßB"6Refactor this function to always return the same type.(«Èºùÿÿÿÿ
+Xjavascript:S3800äB"6Refactor this function to always return the same type.(±Ú—ûÿÿÿÿ
+Sjavascript:S3800éB"6Refactor this function to always return the same type.(¢ä¿Ÿ
+^javascript:S1121öB"<Extract the assignment of "projection" from this expression.(¨ÑÔ’ıÿÿÿÿ
+Xjavascript:S3800…C"6Refactor this function to always return the same type.(°ô€Áüÿÿÿÿ
+Xjavascript:S3800ŠC"6Refactor this function to always return the same type.(·«ê®ÿÿÿÿÿ
+\javascript:S1121¼C":Extract the assignment of "subgroup" from this expression.(÷Í—Şøÿÿÿÿ
+Xjavascript:S1121¾C"6Extract the assignment of "node" from this expression.(…§÷òøÿÿÿÿ
+Xjavascript:S1121ËC"6Extract the assignment of "lock" from this expression.(¢áªˆüÿÿÿÿ
+\javascript:S1121ËC":Extract the assignment of "activeId" from this expression.(¢áªˆüÿÿÿÿ
+fjavascript:S3358àC"DExtract this nested ternary operation into an independent statement.(•Ìûªøÿÿÿÿ
+\javascript:S1121çC":Extract the assignment of "subgroup" from this expression.(÷Í—Şøÿÿÿÿ
+Xjavascript:S1121éC"6Extract the assignment of "node" from this expression.(Ô˜¦°ıÿÿÿÿ
+Xjavascript:S1121ùC"6Extract the assignment of "node" from this expression.(ú¼±‚øÿÿÿÿ
+\javascript:S1121üC":Extract the assignment of "subgroup" from this expression.(÷Í—Şøÿÿÿÿ
+[javascript:S1121şC"9Extract the assignment of "subnode" from this expression.(¨û¢¹úÿÿÿÿ
+\javascript:S1121ŠD":Extract the assignment of "subgroup" from this expression.(÷Í—Şøÿÿÿÿ
+=javascript:S2814‹D"'group' is already defined.(²ÜÇöúÿÿÿÿ
+Xjavascript:S1121ŒD"6Extract the assignment of "node" from this expression.(º®»Âÿÿÿÿÿ
+\javascript:S1121¶E":Extract the assignment of "subgroup" from this expression.(÷Í—Şøÿÿÿÿ
+=javascript:S2814·E"'group' is already defined.(²ÜÇöúÿÿÿÿ
+Xjavascript:S1121¸E"6Extract the assignment of "node" from this expression.(ú¼±‚øÿÿÿÿ
+Tjavascript:S1121òE"7Extract the assignment of "value" from this expression.(È’ß§
+Wjavascript:S1854F"5Remove this useless assignment to variable "inherit".(¤“üƒşÿÿÿÿ
+Hjavascript:S1117˜F"+'g' is already declared in the upper scope.(‰µÍ
+fjavascript:S3358šF"DExtract this nested ternary operation into an independent statement.(ÒÈë±ûÿÿÿÿ
+fjavascript:S3358šF"DExtract this nested ternary operation into an independent statement.(ÒÈë±ûÿÿÿÿ
+Bjavascript:S878¡F"!Unexpected use of comma operator.(—“øıÿÿÿÿ
+=javascript:S878¥F"!Unexpected use of comma operator.(Õö 
+Xjavascript:S3800ÀF"6Refactor this function to always return the same type.(•îô›øÿÿÿÿ
+Xjavascript:S3800ÔF"6Refactor this function to always return the same type.(»¢ïÙşÿÿÿÿ
+Sjavascript:S3800ÛF"6Refactor this function to always return the same type.(¹‹Öª
+Rjavascript:S3800àF"6Refactor this function to always return the same type.(Ìˆæ
+Sjavascript:S3800åF"6Refactor this function to always return the same type.(ÂàÅü
+Mjavascript:S1117…G"+'g' is already declared in the upper scope.(¡§àôüÿÿÿÿ
+ajavascript:S3358´H"DExtract this nested ternary operation into an independent statement.(ºİ¿Ø
+Rjavascript:S1121¶H"5Extract the assignment of "min" from this expression.(ÌÄ¶¼
+ajavascript:S3358ßH"DExtract this nested ternary operation into an independent statement.(àˆâŸ
+ajavascript:S3358ßH"DExtract this nested ternary operation into an independent statement.(àˆâŸ
+Bjavascript:S878àH"!Unexpected use of comma operator.(Ôç–ûÿÿÿÿ
+=javascript:S878èH"!Unexpected use of comma operator.(Ä½ˆ
+Bjavascript:S878êH"!Unexpected use of comma operator.(ôâ„¶øÿÿÿÿ
+=javascript:S878ëH"!Unexpected use of comma operator.(úÂ§‡
+Bjavascript:S878ìH"!Unexpected use of comma operator.(çÂÀùÿÿÿÿ
+=javascript:S878ñH"!Unexpected use of comma operator.(óØ×ï
+<javascript:S878óH"!Unexpected use of comma operator.(Á¡Õ)
+=javascript:S878ôH"!Unexpected use of comma operator.(ª§ñÂ
+Bjavascript:S878õH"!Unexpected use of comma operator.(øÑÜÂÿÿÿÿÿ
+ajavascript:S3358øH"DExtract this nested ternary operation into an independent statement.(„ãˆ¸
+=javascript:S878ûH"!Unexpected use of comma operator.(·¹åİ
+Bjavascript:S878üH"!Unexpected use of comma operator.(çŠñ²ÿÿÿÿÿ
+Bjavascript:S878şH"!Unexpected use of comma operator.(Ş¥Î»ûÿÿÿÿ
+Bjavascript:S878ÿH"!Unexpected use of comma operator.(çÂÀùÿÿÿÿ
+=javascript:S878ƒI"!Unexpected use of comma operator.(Ã£ˆ’
+Bjavascript:S878„I"!Unexpected use of comma operator.(¥õ«Àÿÿÿÿÿ
+=javascript:S878†I"!Unexpected use of comma operator.(˜ÿäò
+Bjavascript:S878‡I"!Unexpected use of comma operator.(øÑÜÂÿÿÿÿÿ
+Bjavascript:S878I"!Unexpected use of comma operator.(À¨ô‰ùÿÿÿÿ
+fjavascript:S3358æI"DExtract this nested ternary operation into an independent statement.(¸Éò½ıÿÿÿÿ
+fjavascript:S3358æI"DExtract this nested ternary operation into an independent statement.(¸Éò½ıÿÿÿÿ
+Bjavascript:S878êI"!Unexpected use of comma operator.(ò»˜ ÿÿÿÿÿ
+Xjavascript:S1121ğI"6Extract the assignment of "date" from this expression.(û„¹£ıÿÿÿÿ
+Sjavascript:S1121ôI"6Extract the assignment of "date" from this expression.(Ñ‘’»
+ajavascript:S3358úI"DExtract this nested ternary operation into an independent statement.(æÁÃÉ
+Bjavascript:S878ıI"!Unexpected use of comma operator.(ò»˜ ÿÿÿÿÿ
+gjavascript:S905ÑJ"FExpected an assignment or function call and instead saw an expression.(“ÒÊùÿÿÿÿ
+Bjavascript:S878ÑJ"!Unexpected use of comma operator.(“ÒÊùÿÿÿÿ
