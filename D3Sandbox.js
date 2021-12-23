@@ -67,12 +67,6 @@ function D3test() {
             return d.name;
         });
 
-    function D3colorNode(group) {
-        if (group === 1) { return '#aaa'; } // gray
-        if (group === 2) { return '#fbc280';} // Soft orange
-        else { return '#405275'; } // Dark moderate blue
-    }
-
     D3force.on('tick', function () {
         D3linkSvg.attr('x1', function (d) {
             return d.source.x;
@@ -93,4 +87,10 @@ function D3test() {
 
     // try commenting the below line and see how d3 starts :)
     for (let i = 0; i < 300; ++i) { D3force.tick(); }
+}
+
+function D3colorNode(group) {
+    if (group === 1) { return '#aaa'; } // gray
+    if (group === 2) { return '#fbc280';} // Soft orange
+    else { return '#405275'; } // Dark moderate blue
 }
